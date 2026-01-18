@@ -1,3 +1,1 @@
-# m02g
-
-Prioritization simplified. Starting point for impact score feature.
+Instructor output for simplified prioritization (highest compensation only), created by AI.
